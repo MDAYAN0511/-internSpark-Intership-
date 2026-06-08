@@ -64,13 +64,35 @@ Analyze Zomato restaurant data to identify trends in restaurant ratings, cuisine
 
 ## Repository Structure
 
-```text
-├── Zomato_Analysis.ipynb
+Zomato-Dataset-Analysis/
+│
 ├── README.md
-├── Report.pdf
-└── Dataset/
+├── Zomato_Analysis.ipynb
+├── Zomato_Report.pdf
+├── requirements.txt
+│
+└── screenshots/
+    ├── rating_distribution.png
+    ├── top_cuisines.png
+    ├── location_hotspots.png
+    └── price_vs_rating.png
 ```
+## Visualizations
 
+### Rating Distribution
+![Rating Distribution](screenshots/rating_distribution.png)
+
+### Top Cuisines
+![Top Cuisines](screenshots/top_cuisines.png)
+
+### Location Hotspots
+![Location Hotspots](screenshots/location_hotspots.png)
+
+### Price vs Rating
+![Price vs Rating](screenshots/price_vs_rating.png)
+
+### Correlation Heatmap
+![Heatmap](screenshots/heatmap.png)
 ## Author
 
 InternSpark Data Science Intern
